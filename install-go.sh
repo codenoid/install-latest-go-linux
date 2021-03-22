@@ -23,5 +23,5 @@ export GOPATH="/home/$USER/go/packages"
 export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
 \n'
 
-printf "You are ready to Go!";
+printf "You are ready to Go!\n";
 go version
